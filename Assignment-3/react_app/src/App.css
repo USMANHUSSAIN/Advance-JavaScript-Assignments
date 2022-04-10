@@ -1,0 +1,16 @@
+.app {
+  padding: 30px;
+  background-color: floralwhite;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  margin-left: 50%;
+}
